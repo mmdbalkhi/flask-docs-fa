@@ -965,7 +965,6 @@ class Flask(App):
         **values: t.Any,
     ) -> str:
         """Generate a URL to the given endpoint with the given values.
-
         This is called by :func:`flask.url_for`, and can be called
         directly as well.
 

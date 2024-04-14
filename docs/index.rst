@@ -14,6 +14,8 @@ complete application with Flask. Common patterns are described in the
 component of Flask in detail, with a full reference in the :doc:`api`
 section.
 
+Flask are easy but it's very good for backend
+
 Flask depends on the `Werkzeug`_ WSGI toolkit, the `Jinja`_ template engine, and the
 `Click`_ CLI toolkit. Be sure to check their documentation as well as Flask's when
 looking for information.
